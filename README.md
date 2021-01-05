@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dromse&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 - 🔭 I’m currently working on improving my skills.
-- 🌱 I’m currently learning Linux/C.
+- 🌱 I’m currently learning Linux/C/Web.
 - 👯 I’m looking to collaborate on any inspiration projects.
 - 🤔 I’m looking for help with searching perfect unix-based cli stuff.
 - 💬 Ask me about Linux.
