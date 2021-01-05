@@ -14,7 +14,7 @@
 - ⚡ Fun fact: Spending a lot of time watching videos on YT, specially any configuration or customisation of my linux system.
 
 ## Description of my usages
-- 💿 Linux Distro: Void Linux
+- 💿 Distro: Void Linux
 - 🔮 Window Manager: i3wm
 - 📙 Shell: fish
 - 📠 Terminal: Kitty
