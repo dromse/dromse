@@ -10,3 +10,10 @@
 - 📫 How to reach me: dromseproducer@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Spending a lot of time watching videos on YT, specially any configuration or customisation of my linux system.
+
+## Description of my usages
+- 💿 Linux Distro: Void Linux
+- 🔮 Window Manager: i3wm
+- 📙 Shell: fish
+- 📠 Terminal: Kitty
+- ⌨️ Text-editor: neovim
