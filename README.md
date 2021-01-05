@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on improving my skills.
 - 🌱 I’m currently learning Linux/C/Web.
 - 👯 I’m looking to collaborate on any inspiration projects.
-- 🤔 I’m looking for help with searching perfect unix-based cli stuff.
+- 🤔 I’m looking for help with searching perfect unix-based CLI stuff.
 - 💬 Ask me about Linux.
 - 📫 How to reach me: dromseproducer@gmail.com
 - 😄 Pronouns: He/His
