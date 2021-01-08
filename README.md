@@ -25,8 +25,8 @@
 - 💿 Distro: Void Linux
 - 🔮 Window Manager: i3wm
 - 📙 Shell: fish
-- 📠 Terminal: Kitty
+- 📠 Terminal: Alacritty
 - ⌨️ Text-editor: neovim
 
-![screenshot](screenshots/screenshot.png)
+![screenshot](screenshot.png)
 
