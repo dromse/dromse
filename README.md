@@ -31,7 +31,7 @@
 
 ## My system configuration
 - 💿 Distro: Void Linux
-- 🔮 Window Manager: i3wm
+- 🔮 Window Manager: i3wm (i3-gaps)
 - 📙 Shell: fish
 - 📠 Terminal: Alacritty
 - ⌨️ Text-editor: neovim
