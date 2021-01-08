@@ -13,15 +13,20 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Spending a lot of time watching videos on YT, specially any configuration or customisation of my linux system.
 
-## Description of my usages
-- 💿 Distro: Void Linux
-- 🔮 Window Manager: i3wm
-- 📙 Shell: fish
-- 📠 Terminal: Kitty
-- ⌨️ Text-editor: neovim
 
 ## Experience
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin)
+
+
+## My system configuration
+- 💿 Distro: Void Linux
+- 🔮 Window Manager: i3wm
+- 📙 Shell: fish
+- 📠 Terminal: Kitty
+- ⌨️ Text-editor: neovim
+
+![screenshot](screenshots/screenshot.png)
+
