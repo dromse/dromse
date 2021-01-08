@@ -26,7 +26,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
-![XML](https://img.shields.io/badge/-Xml-090909?style=for-the-badge&logo=Xml)
 ![Gradle](https://img.shields.io/badge/-Gradle-090909?style=for-the-badge&logo=Gradle)
 
 
