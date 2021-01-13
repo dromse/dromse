@@ -16,12 +16,10 @@
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
-![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin)
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=Android)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
 ![Gradle](https://img.shields.io/badge/-Gradle-090909?style=for-the-badge&logo=Gradle)
 
