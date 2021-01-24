@@ -20,8 +20,6 @@
 ![CSS](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=Android)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
-![Gradle](https://img.shields.io/badge/-Gradle-090909?style=for-the-badge&logo=Gradle)
 
 
 ## My system configuration
