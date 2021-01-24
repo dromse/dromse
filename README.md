@@ -21,14 +21,3 @@
 ![CSS](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=Android)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
-
-
-## My system configuration
-- 💿 Distro: Void Linux
-- 🔮 Window Manager: i3wm (i3-gaps)
-- 📙 Shell: fish
-- 📠 Terminal: Alacritty
-- ⌨️ Text-editor: neovim
-
-![screenshot](screenshot.png)
-
