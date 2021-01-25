@@ -2,7 +2,10 @@
 
 ## I'm Junior Software Engineer
 
+## Github stats
 <img src="https://github-readme-stats.vercel.app/api?username=dromse&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+## Codewars stats
+<img src="https://www.codewars.com/users/dromse/badges/large">
 
 ## Experience
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b)
