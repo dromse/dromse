@@ -1,6 +1,7 @@
-# Hi there <img src="https://raw.githubusercontent.com/dromse/dromse/master/wave.gif" width="30px">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+<h1 align='center'> Hi! :wave: </h1>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Details about me...
 ```javascript
 const dromse = {
     pronouns: "He" | "Him",
@@ -29,5 +30,4 @@ const dromse = {
 # Codewars stats
 <img src="https://www.codewars.com/users/dromse/badges/large">
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dromse.dromse)
+<h1 align='center'><i>Stay awesome!</i></h1>
