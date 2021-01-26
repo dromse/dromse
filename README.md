@@ -24,14 +24,11 @@ const dromse = {
 ![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=Android)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
 
-
-### 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Github stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dromse&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dromse&hide=TeX&layout=compact)
 
-### 
-### <img src="https://media3.giphy.com/media/W5TvUZl3S9bhtfaldU/giphy.gif?cid=82a1493bpgvmqzbqmmmwp1wpxt22mlo5sg3cjod2ybv3tnbe&rid=giphy.gif" width="40">CodeWars stats:
+### <img src="https://media3.giphy.com/media/W5TvUZl3S9bhtfaldU/giphy.gif?cid=82a1493bpgvmqzbqmmmwp1wpxt22mlo5sg3cjod2ybv3tnbe&rid=giphy.gif" width="30">CodeWars stats:
 <img src="https://www.codewars.com/users/dromse/badges/large">
 <hr>
 <h1 align='center'><i><img src="https://media.giphy.com/media/Vzebc2BnJ4HZoCDSQy/giphy.gif" width="30">Stay awesome!</i></h1>
