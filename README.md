@@ -23,11 +23,13 @@ const dromse = {
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
 
 
-# Github stats
+### 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Github stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dromse&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dromse&hide=TeX&layout=compact)
 
-# Codewars stats
+### 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Codewars stats
 <img src="https://www.codewars.com/users/dromse/badges/large">
 
 <h1 align='center'><i>Stay awesome!</i></h1>
