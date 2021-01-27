@@ -1,6 +1,6 @@
 
 <h1 align='center'> Hi! </h1>
-<h1 align="center">Welcome to my GitHub profile:wave:</h1>
+<h1 align="center">Welcome to my GitHub profile! :wave:</h1>
 
 ### <img src="https://media1.giphy.com/media/yRMOpluQnhMlepBEPY/giphy.gif?cid=82a1493b2v93tcryi1yqxyunqsups3tlbvakh9dgmljkyqu9&rid=giphy.gif" height="40" width="30">Details about me...
 ```javascript
