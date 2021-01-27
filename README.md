@@ -1,9 +1,9 @@
 
 <h1 align='center'> Hi! :wave: </h1>
-<h1 align="center">Welcome to my GitHub profile<img src="https://media0.giphy.com/media/fMzhBjiHqVXLptbQyj/giphy.gif?cid=6c09b9524f659cb8b945fb2e547ddcabe2acd51943b19c0f&rid=giphy.gif" width="30"> 
+<h1 align="center">Welcome to my GitHub profile<img src="https://media4.giphy.com/media/3ohhwLtnC83RiLerzq/giphy.gif?cid=82a1493b75y0dnb9p1dvgafx0xrv56upihzjxrm1brnsbp21&rid=giphy.gif" width="60"> 
 </h1>
 
-### <img src="https://media.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif" height="30" width="30">Details about me...
+### <img src="https://media1.giphy.com/media/yRMOpluQnhMlepBEPY/giphy.gif?cid=82a1493b2v93tcryi1yqxyunqsups3tlbvakh9dgmljkyqu9&rid=giphy.gif" height="40" width="30">Details about me...
 ```javascript
 const dromse = {
     pronouns: "He" | "Him",
