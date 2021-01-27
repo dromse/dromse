@@ -9,7 +9,7 @@ const dromse = {
     status: "Student of Computer Science",
     code: ["JavaScript", "Python", "Java"],
     askMeAbout: ["Linux", "Tech", "WebDev", "AndroidDev"],
-    currentFocus: "Comptetive Programming using ReactNative",
+    currentFocus: "Comptetive Programming using JavaScript",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
