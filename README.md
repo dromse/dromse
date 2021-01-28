@@ -30,7 +30,7 @@ const dromse = {
 
 ### <img src="https://media3.giphy.com/media/W5TvUZl3S9bhtfaldU/giphy.gif?cid=82a1493bpgvmqzbqmmmwp1wpxt22mlo5sg3cjod2ybv3tnbe&rid=giphy.gif" width="30">CodeWars stats:
 
-<a href="https://www.codewars.com/users/dromse" onclick="target='_blank';"><img src="https://www.codewars.com/users/dromse/badges/large"></a>
+<a href="https://www.codewars.com/users/dromse" onclick="this.target='_blank'"><img src="https://www.codewars.com/users/dromse/badges/large"></a>
 
 <hr>
 
