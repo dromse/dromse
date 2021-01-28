@@ -29,6 +29,9 @@ const dromse = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dromse&hide=TeX&layout=compact)
 
 ### <img src="https://media3.giphy.com/media/W5TvUZl3S9bhtfaldU/giphy.gif?cid=82a1493bpgvmqzbqmmmwp1wpxt22mlo5sg3cjod2ybv3tnbe&rid=giphy.gif" width="30">CodeWars stats:
-<img src="https://www.codewars.com/users/dromse/badges/large">
+
+<a href="https://www.codewars.com/users/dromse"><img src="https://www.codewars.com/users/dromse/badges/large"></a>
+
 <hr>
+
 <h1 align='center'><i><img src="https://media.giphy.com/media/Vzebc2BnJ4HZoCDSQy/giphy.gif" width="30">Stay awesome!</i></h1>
