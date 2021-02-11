@@ -7,7 +7,7 @@
 const dromse = {
     pronouns: "He" | "Him",
     status: "Student of Computer Science",
-    code: ["JavaScript", "Python", "Java"],
+    code: ["C/C++", "JavaScript", "Python", "Java"],
     askMeAbout: ["Linux", "Tech", "WebDev", "AndroidDev"],
     currentFocus: "Comptetive Programming using JavaScript",
     funFact: "There are two ways to write error-free programs; only the third one works"
